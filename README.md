@@ -25,14 +25,14 @@ Takım 125
 ---
 
 ## Ürün Özellikleri
-*Stok takibi
-*Ürünlerin Son Kullanma Tarihlerinin takibi
-*Tarif önerileri
+* Stok takibi
+* Ürünlerin Son Kullanma Tarihlerinin takibi
+* Tarif önerileri
 
 ---
 
 ## Hedef Kitle
-*Aşçılar
-*Ürün takibi yapmak isteyenler
-*Sürdürülebilirliğe önem veren ve israftan kaçınmak isteyenler
+* Aşçılar
+* Ürün takibi yapmak isteyenler
+* Sürdürülebilirliğe önem veren ve israftan kaçınmak isteyenler
 
