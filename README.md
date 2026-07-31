@@ -28,6 +28,7 @@ Takım 125
 * Stok takibi
 * Ürünlerin Son Kullanma Tarihlerinin takibi
 * Tarif önerileri
+* Rozet ve başarımlar
 
 ---
 
