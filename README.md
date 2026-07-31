@@ -52,4 +52,10 @@ Takım 125
 * [Sprint 2 Board Updates](https://github.com/hudrikerem/EcoChef-AI/tree/main/Project_Files/Sprint2/Backlog%20SS)
 * [App Screenshots](https://github.com/hudrikerem/EcoChef-AI/tree/main/Project_Files/Sprint2/App_SS)
 
+# Sprint 3
+---
+* Daily Scrum: Daily Scrum toplantılarımız Google Meets üzerinden yapılmıştır. Toplantıların öncesi, sonrasına ait mesajlar ve toplantı içeriğinin özeti burada açıklanmıştır: [Sprint 3 Daily Scrum](https://github.com/hudrikerem/EcoChef-AI/tree/main/Project_Files/Sprint3/Daily_ScrumSS)
+* [Sprint 3 Board Updates](https://github.com/hudrikerem/EcoChef-AI/tree/main/Project_Files/Sprint3/Backlog%20SS)
+* [App Screenshots](https://github.com/hudrikerem/EcoChef-AI/tree/main/Project_Files/Sprint3/App_SS)
+
 
