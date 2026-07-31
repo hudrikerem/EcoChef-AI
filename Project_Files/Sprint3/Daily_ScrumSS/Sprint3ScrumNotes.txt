@@ -1,0 +1,28 @@
+21/07/2026 17.00
+
+-Rozet ve Başarım sekmesi hakkında konuşuldu
+-Firebase kurulumu hakkında bilgi paylaşımı yapıldı ve süreç hızlandırıldı
+-Uygulama bildirimlerinin tasarlanması ve tanımlanması sürecine başlanıldı
+-Uygulamadaki özelliklerin nasıl çeşitlendirilebileceğine yönelik öneriler sunuldu
+-Tarif Önerileri için AI Entegrasyonunda Gemininin kullanılmasına karar verildi
+
+
+24/07/2026
+
+-Profil kişiselleştirmeleri üzerine konuşuldu
+-Seçilebilir default profil avatarları eklenmesine karar verildi
+-Ürünlerin tüketildiğini veya israf edilebildiğini seçebildiğimiz özellik üzerine konuşuldu
+-Tüketim Karnesi Ekranı üzerine düşünüldü ve neler yapılabileceği hakkında müzakere edildi
+-Firebase kurulum süreci hakkında Berha'dan bilgi alındı
+-Avatarların tasarımını Abdullah'ın üstlenmesine karar verildi
+-Buglar üzerine konuşuldu ve küçük fixler uygulandı
+
+
+28/07/2026
+
+-Bildirim sisteminin son düzenlemeleri hakkında konuşuldu
+-Tarif önerileri için AI Entegrasyonunun Gemini API kullanılarak tamamlandığı söylendi
+-Tüketim Karnesi Ekranının tasarımının tamamlandığı belirtildi
+-Eklenebilecek özellikler hakkında konuşuldu 
+-Özelliklerin yeterli olduğu ve bundan sonra küçük düzeltmelere odaklanmanın mantıklı olduğunda karar kılındı
+-Hüdai, Ürün tesliminden önce son kez toplanılacağını açıkladı
