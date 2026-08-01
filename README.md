@@ -41,7 +41,7 @@ Takım 125
 
 ## Uygulama Tanıtım Videosu
 
-[![Uygulama Tanıtım Videosu](https://i.ibb.co/9H5gcp3t/Screenshot-2026-08-01-07-10-25-26-f9ee0578fe1cc94de7482bd41accb329.jpg)](https://youtu.be/2IhcFdF-Bp8)
+[![Uygulama Tanıtım Videosu](https://i.ibb.co/8gLsV0Tg/file-000000005ad4820ab8e6eb036836471c.png)](https://youtu.be/2IhcFdF-Bp8)
 
 <details>
 <summary><strong>Sprint 1</strong></summary>
